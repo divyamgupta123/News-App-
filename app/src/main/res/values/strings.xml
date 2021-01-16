@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="icon">ICON</string>
+    <string name="newsify">Newsify</string>
+    <string name="textview">TextView</string>
+    <string name="image">Image</string>
+    <string name="share_news">Share news</string>
+    <string name="tap_on_the_screen_to_view_full_news">Tap on the screen to view full news</string>
+    <string name="loading_image">loading image</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+</resources>
