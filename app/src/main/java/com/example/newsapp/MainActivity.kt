@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
                 }
                 R.id.health -> {
                     val intent = Intent(this@MainActivity, CategoryActivity::class.java)
-                    intent.putExtra("category", "entertainment")
+                    intent.putExtra("category", "health")
                     startActivity(intent)
                 }
                 R.id.science -> {
